@@ -8,7 +8,7 @@ import org.ros.android.view.RosTextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    // For Test of the ROS 
+    // For Test of the ROS
     RosTextView rosTextView;
 
     @Override

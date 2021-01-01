@@ -37,5 +37,6 @@ dependencies {
     def multidex_version = "2.0.1"
     implementation "androidx.multidex:multidex:$multidex_version"
 
+    // Ros Library for core functionality
     implementation 'org.ros.android_core:android_core_components:0.4.0'
 }
